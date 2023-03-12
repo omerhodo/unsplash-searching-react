@@ -1,0 +1,16 @@
+.imageItem {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+
+  &--item {
+    width: 100%;
+  }
+
+  &--title {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+  }
+}
